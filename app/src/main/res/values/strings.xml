@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TeenPattiGold</string>
+    <string name="virtual_chips_disclaimer">Virtual Chips Only • Entertainment Game</string>
+    <string name="lobby_hero_subtitle">Royal 3-Card Indian Poker</string>
+    <string name="lobby_play_now">Deal Now</string>
+    <string name="action_pack">Pack</string>
+    <string name="action_see">See Cards</string>
+    <string name="action_blind">Blind</string>
+    <string name="action_chaal">Chaal</string>
+    <string name="action_sideshow">Sideshow</string>
+    <string name="action_show">Show</string>
+    <string name="action_next_hand">Next Hand</string>
+    <string name="action_change_table">Leave Table</string>
+    <string name="daily_bonus_title">Royal Daily Bonus</string>
+    <string name="hand_rankings_title">Hand Rankings &amp; Rules</string>
+    <string name="profile_title">Player Lounge</string>
+</resources>

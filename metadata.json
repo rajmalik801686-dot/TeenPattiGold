@@ -1,0 +1,8 @@
+{
+  "name": "TeenPattiGold",
+  "description": "Classic 3-Card Indian Poker (Teen Patti) Android app featuring Classic, Muflis, AK47, and Joker variations with smart AI opponents and virtual chips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
